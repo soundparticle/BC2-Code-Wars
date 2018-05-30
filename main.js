@@ -1,5 +1,5 @@
-
-
-var replaceDots = function(str) {
-    return str.replace(/\./g, '-');
-  }
+function fixTheMeerkat(arr) {
+  var reversed = arr.reverse();
+  return arr;
+  
+ }
