@@ -1,7 +1,13 @@
-# My partner was Injoon
+# My partner was Robert Thompson
 
 ## Description:
-Write a function insertDash(num)/InsertDash(int num) that will insert dashes ('-') between each two odd numbers in num. For example: if num is 454793 the output should be 4547-9-3. Don't count zero as an odd number.
+Write a simple regex to validate a username. Allowed characters are:
+
+lowercase letters,
+numbers,
+underscore
+Length should be between 4 and 16 characters (both included).
+
 
 https://www.codewars.com/kata/insert-dashes/train/javascript
 
